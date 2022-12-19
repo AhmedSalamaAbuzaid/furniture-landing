@@ -1,0 +1,18 @@
+.card-img, .card-img-top{
+    height: 150px;
+}
+.row>*{
+    margin-bottom: 20px;
+}
+.col-3 .card {
+    min-height: 100%;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.wrap-btns .btn{
+    margin: 4px;
+    width: 100%;
+}
